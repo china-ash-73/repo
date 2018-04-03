@@ -1,0 +1,38 @@
+##############################
+<poster>P@W Movie Test</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+##############################
+
+<item>
+<title>Tomb Raider</title>
+<meta>
+<content>movie</content>
+<imbd>tt1365519</imbd>
+<title>Tomb Raider </title>
+<year>2018</year>
+</meta>
+<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/t0MrD4cbPwVlQpxP88FYGmW5bnB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bLJTjfbZ1c5zSNiAvGYs1Uc82ir.jpg</fanart>
+</item>
+
+
+<item>
+<title>Ready Player One</title>
+<meta>
+<content>movie</content>
+<imbd>tt1365519</imbd>
+<title>Ready Player One</title>
+<year>2018</year>
+</meta>
+<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yRAOea9uRypMIFJHymR1PAZrGbD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg</fanart>
+</item>

@@ -1,0 +1,21 @@
+##############################
+<poster>P@W Test</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+##############################
+
+
+<dir>
+<name>Movies Test</name>
+<link></link>
+<thumbnail></thumbnail>
+<summary>testing xml</summary>
+</dir>
+
+<dir>
+<name>Tv Shows Test</name>
+<link></link>
+<thumbnail></thumbnail>
+<summary>testing xml</summary>
+</dir>
+
