@@ -1,0 +1,16 @@
+########################################################
+<poster>P@W Tv Show Test</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+########################################################
+
+
+<dir>
+<title>Top 50 Horror Movies</title>
+<trakt>https://api.trakt.tv/users/ash9001/lists/top-50-horror-movies/items</trakt>
+</dir>
+
+<dir>
+<title></title>
+<trakt>/items</trakt>
+</dir>
