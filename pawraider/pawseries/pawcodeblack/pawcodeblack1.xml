@@ -2,16 +2,18 @@
 <poster>P@W Code Black Season Test</poster>
 <cache></cache>
 <thumbnail></thumbnail>
-<fanart>https://www.thetvdb.com/banners/posters/295780-1.jpg</fanart>
+<fanart>https://www.thetvdb.com/banners/fanart/original/295780-2.jpg</fanart>
 ########################################################
+
+https://www.thetvdb.com/banners/fanart/original/295780-2.jpg
 
 <item>
 <title>Code Black S01-E01 - Pilot</title>
 <meta>
 <content>episode</content>
-<imdb>tt2193021</imdb>
-<tvdb>257655</tvdb>
-<tvshowtitle>Arrow</tvshowtitle>
+<imdb>tt4452630</imdb>
+<tvdb>295780</tvdb>
+<tvshowtitle>Code Black</tvshowtitle>
 <year>2015</year>
 <title>Pilot</title>
 <premiered>2015-09-30</premiered>
@@ -29,12 +31,12 @@
 <title>Code Black S01-E02 - We Plug Holes</title>
 <meta>
 <content>episode</content>
-<imdb>tt2193021</imdb>
-<tvdb>257655</tvdb>
-<tvshowtitle>Arrow</tvshowtitle>
+<imdb>tt4452630</imdb>
+<tvdb>295780</tvdb>
+<tvshowtitle>Code Black</tvshowtitle>
 <year>2012</year>
-<title>Honor Thy Father</title>
-<premiered>17-10-2012</premiered>
+<title>We Plug Holes</title>
+<premiered>2015-10-07</premiered>
 <season>1</season>
 <episode>2</episode>
 </meta>
