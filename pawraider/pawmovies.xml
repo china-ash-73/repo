@@ -36,3 +36,8 @@
 <thumbnail>https://image.tmdb.org/t/p/original/yRAOea9uRypMIFJHymR1PAZrGbD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg</fanart>
 </item>
+
+<dir>
+<title>Top 50 Horror Movies</title>
+<trakt>https://api.trakt.tv/users/ash9001/lists/top-50-horror-movies/items</trakt>
+</dir>
