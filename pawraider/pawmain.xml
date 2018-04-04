@@ -18,10 +18,3 @@
 <thumbnail></thumbnail>
 <summary>testing xml</summary>
 </dir>
-
-<plugin>
-<name>Testings</name>
-<link>plugin://plugin.video.raider/?action=developer</link>
-<thumbnail></thumbnail>
-</plugin>
-
