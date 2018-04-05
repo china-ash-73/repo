@@ -13,13 +13,6 @@
 </dir>
 
 <dir>
-<name>Movie listTest</name>
-<link>https://github.com/china-ash-73/repo/blob/master/pawraider/pawmovielist/pawmovlist.xml</link>
-<thumbnail></thumbnail>
-<summary>testing xml</summary>
-</dir>
-
-<dir>
 <name>Tv Shows Test</name>
 <link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/pawtv.xml</link>
 <thumbnail></thumbnail>
@@ -36,13 +29,6 @@
 <dir>
 <name>Channels Test</name>
 <link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/pawtv/pawnetworks.xml</link>
-<thumbnail></thumbnail>
-<summary>testing xml</summary>
-</dir>
-
-<dir>
-<name>Film Studios Test</name>
-<link>https://github.com/china-ash-73/repo/blob/master/pawraider/pawstudios/pawstudio.xml</link>
 <thumbnail></thumbnail>
 <summary>testing xml</summary>
 </dir>
