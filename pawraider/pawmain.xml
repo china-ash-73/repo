@@ -13,22 +13,9 @@
 </dir>
 
 <dir>
-<name>Tv Shows Test</name>
-<link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/pawtv.xml</link>
+<name>Tv Series</name>
+<link>https://github.com/china-ash-73/repo/blob/master/pawraider/paw-xml/paw-tvseries.xml</link>
 <thumbnail></thumbnail>
-<summary>testing xml</summary>
+<summary>Tv Series</summary>
 </dir>
 
-<dir>
-<name>Tv Series Test</name>
-<link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/pawtvseries/pawtvseries.xml</link>
-<thumbnail></thumbnail>
-<summary>testing xml</summary>
-</dir>
-
-<dir>
-<name>Channels Test</name>
-<link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/pawtv/pawnetworks.xml</link>
-<thumbnail></thumbnail>
-<summary>testing xml</summary>
-</dir>
