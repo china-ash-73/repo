@@ -13,6 +13,13 @@
 </dir>
 
 <dir>
+<name>Movie listTest</name>
+<link></link>
+<thumbnail></thumbnail>
+<summary>testing xml</summary>
+</dir>
+
+<dir>
 <name>Tv Shows Test</name>
 <link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/pawtv.xml</link>
 <thumbnail></thumbnail>
@@ -33,3 +40,9 @@
 <summary>testing xml</summary>
 </dir>
 
+<dir>
+<name>Film Studios Test</name>
+<link></link>
+<thumbnail></thumbnail>
+<summary>testing xml</summary>
+</dir>
