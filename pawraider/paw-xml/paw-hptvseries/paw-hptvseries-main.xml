@@ -5,7 +5,12 @@
 ##############################
 
 <dir>
-<name>Arrow</name>
+<title>Arrow</title>
+<meta>
+<content>tvshow</tvshow>
+<imdb>tt2193021</imdb> 
+<tvdb>257655</tvdb>
+<tvshowtitle>Arrow</tvshowtitle>
 <link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-hptvseries/paw-arrow/paw-arrow.xml</link>
 <thumbnail>https://www.thetvdb.com/banners/posters/257655-43.jpg</thumbnail>
 <fanart>https://www.thetvdb.com/banners/fanart/original/257655-63.jpg</fanart>
