@@ -19,26 +19,26 @@
 </dir>
 
 <dir>
-  <title>TMDB Popular</title>
+  <title>Popular</title>
   <tmdb>tv/popular</tmdb>
 </dir>
 
 <dir>
-  <title>TMDB Top Rated</title>
+  <title>Top Rated</title>
   <tmdb>tv/top_rated</tmdb>
 </dir>
 
 <dir>
-  <title>TMDB Airing Today</title>
+  <title>Airing Today</title>
   <tmdb>tv/today</tmdb>
 </dir>
 
 <dir>
-  <title>TMDB Animation Shows</title>
+  <title>Animation Shows</title>
   <tmdb>genre/shows/16</tmdb>
 </dir>
 
 <dir>
-  <title>TMDB Reality Shows</title>
+  <title>Reality Shows</title>
   <tmdb>genre/shows/10764</tmdb>
 </dir>
