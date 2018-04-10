@@ -1,4 +1,3 @@
-
 <dir>
   <title>BBC ONE</title>
   <tmdb>network/shows/4</tmdb>
@@ -6,3 +5,9 @@
   <fantart></fantart>
 </dir>
 
+<dir>
+  <title>BBC TWO</title>
+  <tmdb>network/shows/332</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
