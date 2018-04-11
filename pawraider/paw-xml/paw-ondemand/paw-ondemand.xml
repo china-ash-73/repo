@@ -151,3 +151,17 @@
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>
+
+<dir>
+  <title>Food network</title>
+  <tmdb>network/shows/43</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>SyFy</title>
+  <tmdb>network/shows/77</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
