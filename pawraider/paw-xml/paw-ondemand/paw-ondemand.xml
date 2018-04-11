@@ -95,3 +95,17 @@
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>
+
+<dir>
+  <title>National Geographic</title>
+  <tmdb>network/shows/43</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Nat Geo Wild</title>
+  <tmdb>network/shows/1043</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
