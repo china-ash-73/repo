@@ -123,3 +123,17 @@
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>
+
+<dir>
+  <title>LifeTime</title>
+  <tmdb>network/shows/34</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Yesterday</title>
+  <tmdb>network/shows/710</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
