@@ -55,22 +55,15 @@
 </dir>
 
 <dir>
-  <title>Sky Living</title>
-  <tmdb>network/shows/115</tmdb>
+  <title>Pick</title>
+  <tmdb>network/shows/2210</tmdb>
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>
 
 <dir>
-  <title>Sky Arts</title>
-  <tmdb>network/shows/553</tmdb>
-  <thumbnail></thumbnail>
-  <fantart></fantart>
-</dir>
-
-<dir>
-  <title>Sky News</title>
-  <tmdb>network/shows/480</tmdb>
+  <title>Dave</title>
+  <tmdb>network/shows/388</tmdb>
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>
