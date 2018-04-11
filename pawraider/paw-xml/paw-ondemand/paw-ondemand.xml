@@ -62,15 +62,22 @@
 </dir>
 
 <dir>
-  <title>Dave</title>
-  <tmdb>network/shows/388</tmdb>
+  <title>Spike</title>
+  <tmdb>network/shows/55</tmdb>
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>
 
 <dir>
-  <title>Spike</title>
-  <tmdb>network/shows/55</tmdb>
+  <title>Fox</title>
+  <tmdb>network/shows/19</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>FX</title>
+  <tmdb>network/shows/88</tmdb>
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>
