@@ -4,10 +4,9 @@
 <fanart></fanart>
 #######################################
 
-
 <dir>
-<name>Ryan's On Demand</name>
-<link></link>
-<thumbnail></thumbnail>
-<summary>testing xml</summary>
+  <title>Disney Jr</title>
+  <tmdb>network/shows/281</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
 </dir>
