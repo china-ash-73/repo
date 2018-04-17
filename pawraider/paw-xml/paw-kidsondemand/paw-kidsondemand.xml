@@ -17,3 +17,17 @@
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>
+
+<dir>
+  <title>Nick</title>
+  <tmdb>network/shows/13</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Cbeebies</title>
+  <tmdb>network/shows/166</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
