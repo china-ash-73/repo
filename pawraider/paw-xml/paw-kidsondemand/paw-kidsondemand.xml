@@ -5,13 +5,6 @@
 #######################################
 
 <dir>
-  <title>Disney Jr</title>
-  <tmdb>network/shows/281</tmdb>
-  <thumbnail></thumbnail>
-  <fantart></fantart>
-</dir>
-
-<dir>
   <title>Disney XD</title>
   <tmdb>network/shows/44</tmdb>
   <thumbnail></thumbnail>
