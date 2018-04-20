@@ -1,0 +1,15 @@
+########################################################
+<poster>P@W Test</poster>
+<cache></cache>
+<fanart></fanart>
+########################################################
+
+<item>
+<title></title>
+<link>
+<sublink>http://wowza2.mysoltv.com:1992/UK_ENG_living/index.m3u8</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnv.cli.tn/iptv/ch925&amp;streamtype=TSDOWNLOADER;name=Sky Living</sublink>
+</link>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+</item>
