@@ -7,7 +7,7 @@
 
 <plugin>
 <title>Sky Cinema Action test</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnv.cli.tn/iptv/ch917&amp;streamtype=TSDOWNLOADER;name=Sky 2</link>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=http://cdnv.cli.tn/iptv/ch917</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
