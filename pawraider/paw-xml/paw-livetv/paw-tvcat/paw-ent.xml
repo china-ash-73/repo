@@ -1,6 +1,6 @@
 <item>
 <title>Sky Living</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnv.cli.tn/iptv/ch925&amp;streamtype=TSDOWNLOADER;name=Sky Living</link>
+<link>http://wowza2.mysoltv.com:1992/UK_ENG_living/index.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
