@@ -1,8 +1,9 @@
-
-#EXTM3U
-
-#EXTINF:-1,Sky Living
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnv.cli.tn/iptv/ch925&amp;streamtype=TSDOWNLOADER;name=Sky Living
+<item>
+<title>Sky Living</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnv.cli.tn/iptv/ch925&amp;streamtype=TSDOWNLOADER;name=Sky Living</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 
