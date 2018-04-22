@@ -5,11 +5,11 @@
 <fanart></fanart>
 </item>
 
-<item>
+<plugin>
 <title>Sky Cinema Action test</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnv.cli.tn/iptv/ch917&amp;streamtype=TSDOWNLOADER;name=Sky 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
+</plugin>
 
 
