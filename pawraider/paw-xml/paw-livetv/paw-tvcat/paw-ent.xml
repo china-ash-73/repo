@@ -1,4 +1,12 @@
 <item>
+<title>BBC ONE HD</title>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8</link>
+<thumbnail>https://i.imgur.com/kxMb7jO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>Sky Living</title>
 <link>http://wowza2.mysoltv.com:1992/UK_ENG_living/index.m3u8</link>
 <thumbnail></thumbnail>
