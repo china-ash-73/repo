@@ -9,9 +9,11 @@
 <thumbnail></thumbnail>
 </dir>
 
-<dir>
-<name>Test</name>
-<link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-livetv/paw-tvcat/paw-test.m3u</link>
+<plugin>
+<title>UK test</title>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-livetv/paw-tvcat/paw-test.m3u</link>
 <thumbnail></thumbnail>
-</dir>
+</plugin>
+
+
 
