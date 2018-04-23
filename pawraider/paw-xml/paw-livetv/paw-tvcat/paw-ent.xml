@@ -7,9 +7,7 @@
 
 <item>
 <title>Sky One</title>
-<link>http://cdnv.cli.tn/iptv/ch1809?code=103110612547638</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnv.cli.tn/iptv/ch1809&amp;streamtype=TSDOWNLOADER;name=Sky Cinema Action</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
-
