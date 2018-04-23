@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, Action
+#EXTINF:-1,Action
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnv.cli.tn/iptv/ch917&amp;streamtype=TSDOWNLOADER;name=Sky Cinema Action
 
-#EXTINF:-1, BBC One HD
+#EXTINF:-1,BBC One HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
