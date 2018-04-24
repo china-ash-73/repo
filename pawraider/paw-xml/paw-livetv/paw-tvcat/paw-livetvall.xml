@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="BBC ONE HD" tvg-id="" tvg-logo="" group-title="Entertainment",
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+
+#EXTINF:-1 tvg-name="BBC TWo HD" tvg-id="" tvg-logo="" group-title="Entertainment",
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_hd.m3u8
