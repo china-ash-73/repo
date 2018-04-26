@@ -181,7 +181,7 @@
 <tvshowtitle>Arrow</tvshowtitle>
 <year>2012</year>
 <title>Year's End</title>
-<premiered>	2012-12-12</premiered>
+<premiered>2012-12-12</premiered>
 <season>1</season>
 <episode>9</episode>
 </meta>
@@ -190,5 +190,26 @@
 <sublink>searchsd</sublink>
 </link>
   <thumbnail>https://www.thetvdb.com/banners/episodes/257655/4408785.jpg</thumbnail>
+<fanart></fanart>  
+</item>
+
+<item>
+<title>Arrow S01-E10 - Year's End</title>
+<meta>
+<content>episode</content>
+<imdb>tt2193021</imdb>
+<tvdb>257655</tvdb>
+<tvshowtitle>Arrow</tvshowtitle>
+<year>2012</year>
+<title>Year's End</title>
+<premiered>2012-12-12</premiered>
+<season>1</season>
+<episode>10</episode>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+  <thumbnail>https://www.thetvdb.com/banners/episodes/257655/4415147.jpg</thumbnail>
 <fanart></fanart>  
 </item>
