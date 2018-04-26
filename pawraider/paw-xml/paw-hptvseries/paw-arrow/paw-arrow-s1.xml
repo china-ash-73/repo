@@ -68,7 +68,7 @@
 </item>
 
 <item>
-<title>Arrow S01-E04 - 	An Innocent Man</title>
+<title>Arrow S01-E04 - An Innocent Man</title>
 <meta>
 <content>episode</content>
 <imdb>tt2193021</imdb>
@@ -85,6 +85,27 @@
 <sublink>searchsd</sublink>
 </link>
   <thumbnail>https://www.thetvdb.com/banners/episodes/257655/4369897.jpg</thumbnail>
+<fanart></fanart>  
+</item>
+
+<item>
+<title>Arrow S01-E05 - Damaged</title>
+<meta>
+<content>episode</content>
+<imdb>tt2193021</imdb>
+<tvdb>257655</tvdb>
+<tvshowtitle>Arrow</tvshowtitle>
+<year>2012</year>
+<title>Damaged</title>
+<premiered>2012-11-07</premiered>
+<season>1</season>
+<episode>5</episode>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+  <thumbnail>https://www.thetvdb.com/banners/episodes/257655/4378737.jpg</thumbnail>
 <fanart></fanart>  
 </item>
 
