@@ -160,7 +160,7 @@
 <tvshowtitle>Arrow</tvshowtitle>
 <year>2012</year>
 <title>Vendetta</title>
-<premiered>2012-11-14</premiered>
+<premiered>2012-12-05</premiered>
 <season>1</season>
 <episode>8</episode>
 </meta>
@@ -168,6 +168,27 @@
 <sublink>search</sublink>
 <sublink>searchsd</sublink>
 </link>
-  <thumbnail>https://www.thetvdb.com/banners/episodes/257655/4398273.jpg</thumbnail>
+  <thumbnail>https://www.thetvdb.com/banners/episodes/257655/4408785.jpg</thumbnail>
+<fanart></fanart>  
+</item>
+
+<item>
+<title>Arrow S01-E09 - Year's End</title>
+<meta>
+<content>episode</content>
+<imdb>tt2193021</imdb>
+<tvdb>257655</tvdb>
+<tvshowtitle>Arrow</tvshowtitle>
+<year>2012</year>
+<title>Year's End</title>
+<premiered>	2012-12-12</premiered>
+<season>1</season>
+<episode>9</episode>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+  <thumbnail>https://www.thetvdb.com/banners/episodes/257655/4408785.jpg</thumbnail>
 <fanart></fanart>  
 </item>
