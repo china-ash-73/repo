@@ -42,6 +42,6 @@
 
 <plugin>
 <name>TESTING</name>
-<link>plugin://plugin://script.module.verdict.live.nettv</link>
+<link>plugin://script.module.aragon/play/27</link>
 <thumbnail></thumbnail>
 </plugin>
