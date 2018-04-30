@@ -40,8 +40,3 @@
 <summary>Tv Series</summary>
 </dir>
 
-<plugin>
-<name>TESTING</name>
-<link>plugin://script.module.aragon/play/27</link>
-<thumbnail></thumbnail>
-</plugin>
