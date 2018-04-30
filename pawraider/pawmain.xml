@@ -42,7 +42,7 @@
 
 <plugin>
 <name>Testing</name>
-<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-livetv/paw-tvcat/paw-ent.xml</link>
+<link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/script.module.verdict.live.nettv</link>
 <thumbnail></thumbnail>
 </plugin>
 
