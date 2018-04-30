@@ -257,14 +257,14 @@
 </item>
 
 <item>
-<title>Arrow S01-E13 - 	Betrayal</title>
+<title>Arrow S01-E13 - Betrayal</title>
 <meta>
 <content>episode</content>
 <imdb>tt2193021</imdb>
 <tvdb>257655</tvdb>
 <tvshowtitle>Arrow</tvshowtitle>
 <year>2012</year>
-<title>	Betrayal</title>
+<title>Betrayal</title>
 <premiered>2013-02-06</premiered>
 <season>1</season>
 <episode>13</episode>
@@ -274,5 +274,26 @@
 <sublink>searchsd</sublink>
 </link>
   <thumbnail>https://www.thetvdb.com/banners/episodes/257655/4442089.jpg</thumbnail>
+<fanart></fanart>  
+</item>
+
+<item>
+<title>Arrow S01-E14 - The Odyssey</title>
+<meta>
+<content>episode</content>
+<imdb>tt2193021</imdb>
+<tvdb>257655</tvdb>
+<tvshowtitle>Arrow</tvshowtitle>
+<year>2012</year>
+<title>The Odyssey</title>
+<premiered>2013-02-13</premiered>
+<season>1</season>
+<episode>14</episode>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+  <thumbnail>https://www.thetvdb.com/banners/episodes/257655/4451617.jpg</thumbnail>
 <fanart></fanart>  
 </item>
