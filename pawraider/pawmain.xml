@@ -40,4 +40,8 @@
 <summary>Tv Series</summary>
 </dir>
 
-
+<plugin>
+<name>TESTING</name>
+<link>plugin://plugin://script.module.verdict.live.nettv</link>
+<thumbnail></thumbnail>
+</plugin>
