@@ -37,12 +37,12 @@
 <name>Ryan's Tv</name>
 <link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-ryanstv.xml</link>
 <thumbnail></thumbnail>
-<summary>Tv Series</summary>
+<summary>Tv And On Demand</summary>
 </dir>
 
 <dir>
-<name>testing</name>
-<link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-test.xml</link>
+<name>TESTING</name>
+<link></link>
 <thumbnail></thumbnail>
-<summary>Tv Series</summary>
+<summary>TESTING</summary>
 </dir>
