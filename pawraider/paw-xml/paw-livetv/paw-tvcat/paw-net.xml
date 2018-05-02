@@ -5,8 +5,8 @@
 
 <item>
 <title>Net HD</title>
-<link>addons\plugin.video.aragon\default.py</link>
-<thumbnail>https://i.imgur.com/kxMb7jO.jpg</thumbnail>
+  <link>plugin://plugin.video.aragon/default.py</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
