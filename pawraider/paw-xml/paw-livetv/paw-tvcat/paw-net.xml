@@ -1,0 +1,18 @@
+########################################################
+<poster>P@W  Test</poster>
+<fanart></fanart>
+########################################################
+
+<item>
+<title>Net HD</title>
+<link>addons\plugin.video.aragon\default.py</link>
+<thumbnail>https://i.imgur.com/kxMb7jO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sky One</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnv.cli.tn/iptv/ch1809&amp;streamtype=TSDOWNLOADER;name=Sky One</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
