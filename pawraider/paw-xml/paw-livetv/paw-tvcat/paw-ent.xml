@@ -23,3 +23,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>Net HD</title>
+  <link>plugin://plugin.video.aragon</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
