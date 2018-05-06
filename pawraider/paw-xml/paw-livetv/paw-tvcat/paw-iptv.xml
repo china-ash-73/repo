@@ -5,5 +5,5 @@
 
 <plugin>
 <name>IPTV</name>
-<link>plugin.video.aragon</link>
+<link>plugin://script.module.streamhub/?mode=103&url=none</link>
 </plugin>
