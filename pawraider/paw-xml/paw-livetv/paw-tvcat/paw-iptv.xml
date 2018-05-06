@@ -5,5 +5,5 @@
 
 <plugin>
 <name>IPTV</name>
-<link>plugin://plugin.video.aragon</link>
+<link>plugin.video.aragon</link>
 </plugin>
