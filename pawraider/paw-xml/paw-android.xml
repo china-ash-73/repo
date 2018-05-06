@@ -7,3 +7,8 @@
 <name>IPTV</name>
 <link>plugin://script.module.aragon</link>
 </plugin>
+
+<plugin>
+<name>Live Net</name>
+<link>plugin://script.module.verdict.live.nettv</link>
+</plugin>
