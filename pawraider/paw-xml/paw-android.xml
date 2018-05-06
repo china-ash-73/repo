@@ -12,3 +12,8 @@
 <name>Live Net</name>
 <link>plugin://script.module.verdict.live.nettv</link>
 </plugin>
+
+<plugin>
+<name>UkTv Now</name>
+<link>plugin://script.module.verdict.uktv.now</link>
+</plugin>
