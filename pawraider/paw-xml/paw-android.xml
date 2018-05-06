@@ -19,6 +19,6 @@
 </plugin>
 
 <plugin>
-<name>vtest</name>
+<name>SH test</name>
 <link>plugin://script.module.streamhublive</link>
 </plugin>
