@@ -1,9 +1,0 @@
-########################################################
-<poster>P@W  Test</poster>
-<fanart></fanart>
-########################################################
-
-<plugin>
-<name>IPTV</name>
-<link>plugin://script.module.streamhub/?mode=103&url=none</link>
-</plugin>
