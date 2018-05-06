@@ -20,5 +20,5 @@
 
 <plugin>
 <name>vtest</name>
-<link>plugin://script.module.verdict.iptv</link>
+<link>plugin://script.module.streamhublive</link>
 </plugin>
