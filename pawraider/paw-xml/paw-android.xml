@@ -17,3 +17,8 @@
 <name>Uk Now</name>
 <link>plugin://script.module.verdict.uktv.now</link>
 </plugin>
+
+<plugin>
+<name>verdict test</name>
+<link>plugin://script.module.verdict.iptv</link>
+</plugin>
