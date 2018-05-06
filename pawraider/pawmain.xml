@@ -6,10 +6,10 @@
 
 
 <dir>
-<name>Movies Test</name>
-<link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/pawmovies.xml</link>
+<name>Movies</name>
+<link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-movies.xml</link>
 <thumbnail></thumbnail>
-<summary>testing xml</summary>
+<summary></summary>
 </dir>
 
 <dir>
@@ -40,9 +40,4 @@
 <summary>Tv And On Demand</summary>
 </dir>
 
-<dir>
-<name>TESTING</name>
-<link></link>
-<thumbnail></thumbnail>
-<summary>TESTING</summary>
-</dir>
+
