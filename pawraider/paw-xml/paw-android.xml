@@ -19,6 +19,6 @@
 </plugin>
 
 <plugin>
-<name>verdict test</name>
+<name>vtest</name>
 <link>plugin://script.module.verdict.iptv</link>
 </plugin>
