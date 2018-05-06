@@ -15,10 +15,10 @@
 <thumbnail></thumbnail>
 </plugin>
 
-<plugin>
+<dir>
 <title>paw iptv</title>
 <link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-livetv/paw-tvcat/paw-iptv.xml</link>
 <thumbnail></thumbnail>
-</plugin>
+</dir>
 
 
