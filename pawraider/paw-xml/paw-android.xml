@@ -19,6 +19,6 @@
 </plugin>
 
 <plugin>
-<name>SH test</name>
-<link>plugin://script.module.streamhublive</link>
+<name>ns</name>
+<link>plugin://script.module.netstreams.iptv</link>
 </plugin>
