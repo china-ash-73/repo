@@ -5,7 +5,7 @@
 
 <item>
 <title>Net HD</title>
-  <link>plugin://plugin.video.aragon</link>
+  <link>plugin://plugin.video.aragon/addon.py</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
