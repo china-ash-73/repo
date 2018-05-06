@@ -1,0 +1,9 @@
+########################################################
+<poster>P@W  Test</poster>
+<fanart></fanart>
+########################################################
+
+<plugin>
+<name>IPTV</name>
+<link>plugin://script.module.aragon</link>
+</plugin>
