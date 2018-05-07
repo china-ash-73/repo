@@ -23,7 +23,4 @@
 <link>plugin://script.module.netstreams.iptv</link>
 </plugin>
 
-<plugin>
-<name>whats this do</name>
-<link>plugin://script.module.nanscrapers</link>
-</plugin>
+
