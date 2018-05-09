@@ -6,8 +6,6 @@
 </dir>
 
 <dir>
-<name>Movies</name>
-<link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-movies/paw-latest.xml</link>
-<thumbnail></thumbnail>
-<summary>Hand Picked Tv series</summary>
+  <title>In Cinemas Now</title>
+  <tmdb>movies/now_playing</tmdb>
 </dir>
