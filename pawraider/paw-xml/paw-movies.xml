@@ -9,3 +9,10 @@
   <title>In Cinemas Now</title>
   <tmdb>movies/now_playing</tmdb>
 </dir>
+
+<dir>
+<name>Movie Box-Sets</name>
+<link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-movies/paw-movboxset.xml</link>
+<thumbnail></thumbnail>
+<summary>Hand Picked Tv series</summary>
+</dir>
