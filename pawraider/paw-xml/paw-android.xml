@@ -24,6 +24,6 @@
 </plugin>
 
 <plugin>
-<name>Paw Raider UK</name>
-<link>plugin://script.module.raider.uktv</link>
+<name>Live UK TV Now</name>
+<link>plugin://script.module.raider</link>
 </plugin>
