@@ -4,18 +4,8 @@
 ########################################################
 
 <plugin>
-<name>IPuk</name>
-<link>plugin://script.module.aragon</link>
-</plugin>
-
-<plugin>
 <name>Live Net</name>
 <link>plugin://script.module.verdict.live.nettv</link>
-</plugin>
-
-<plugin>
-<name>Uk Now</name>
-<link>plugin://script.module.verdict.uktv.now</link>
 </plugin>
 
 <plugin>
