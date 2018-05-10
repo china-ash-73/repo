@@ -25,5 +25,5 @@
 
 <plugin>
 <name>Live UK TV Now</name>
-<link>plugin://script.module.raider</link>
+<link>plugin://script.module.raider.uktv.now</link>
 </plugin>
