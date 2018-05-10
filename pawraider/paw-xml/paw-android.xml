@@ -23,4 +23,7 @@
 <link>plugin://script.module.netstreams.iptv</link>
 </plugin>
 
-
+<plugin>
+<name>Paw Raider UK</name>
+<link>plugin://script.module.raider.uktv.now</link>
+</plugin>
