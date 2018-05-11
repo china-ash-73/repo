@@ -20,5 +20,5 @@
 
 <plugin>
 <name>Live hub</name>
-<link>plugin://script.module.streamhub</link>
+<link>plugin://script.module.streamhublive</link>
 </plugin>
