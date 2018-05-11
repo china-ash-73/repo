@@ -22,3 +22,8 @@
 <name>Live S-hub</name>
 <link>plugin://script.module.streamhublive</link>
 </plugin>
+
+<plugin>
+<name>Live test</name>
+<link>https://raw.githubusercontent.com/sClarkeIsBack/StreamHub/master/Links/LiveTv/LievTV.xml</link>
+</plugin>
