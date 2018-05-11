@@ -24,6 +24,6 @@
 </plugin>
 
 <plugin>
-<name>Live test</name>
+<name>Live test 1</name>
 <link>https://raw.githubusercontent.com/sClarkeIsBack/StreamHub/master/Links/Sports/Sports.xml</link>
 </plugin>
