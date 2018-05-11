@@ -4,11 +4,6 @@
 ########################################################
 
 <plugin>
-<name>Live Net</name>
-<link>plugin://script.module.verdict.live.nettv</link>
-</plugin>
-
-<plugin>
 <name>ns</name>
 <link>plugin://script.module.netstreams.iptv</link>
 </plugin>
@@ -16,4 +11,9 @@
 <plugin>
 <name>Live UK TV Now</name>
 <link>plugin://script.module.raider.uktv.now</link>
+</plugin>
+
+<plugin>
+<name>Live Net</name>
+<link>plugin://script.module.raider.nettv</link>
 </plugin>
