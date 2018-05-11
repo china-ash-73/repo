@@ -23,7 +23,3 @@
 <link>plugin://script.module.streamhublive</link>
 </plugin>
 
-<plugin>
-<name>Live test 1</name>
-<link>https://raw.githubusercontent.com/sClarkeIsBack/StreamHub/master/Links/Home.XML</link>
-</plugin>
