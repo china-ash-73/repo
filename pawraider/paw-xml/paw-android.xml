@@ -17,3 +17,8 @@
 <name>Live Net</name>
 <link>plugin://script.module.raider.nettv</link>
 </plugin>
+
+<plugin>
+<name>Live hub</name>
+<link>plugin://script.module.streamhub</link>
+</plugin>
