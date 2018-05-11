@@ -19,6 +19,6 @@
 </plugin>
 
 <plugin>
-<name>Live hub</name>
+<name>Live S-hub</name>
 <link>plugin://script.module.streamhublive</link>
 </plugin>
