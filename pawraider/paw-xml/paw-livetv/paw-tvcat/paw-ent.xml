@@ -12,7 +12,10 @@
 
 <item>
 <title>Sky Atlantic</title>
-<link>plugin://script.module.netstreams.iptv/play_id/Channels/eabd32acc39d4bd72a4ad687090aef8f</link>
+<link>
+<sublink>plugin://script.module.netstreams.iptv/play_id/Channels/eabd32acc39d4bd72a4ad687090aef8f</sublink>
+<sublink>plugin://script.module.raider.uktv.now/play/192</sublink>
+</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
