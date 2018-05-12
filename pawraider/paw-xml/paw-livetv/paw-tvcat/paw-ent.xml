@@ -18,13 +18,6 @@
 </item>
 
 <item>
-<title>Sky Atlantic (Link: - 2)</title>
-<link>plugin://script.module.raider.uktv.now/play/192</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Sky One</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnv.cli.tn/iptv/ch1809&amp;streamtype=TSDOWNLOADER;name=Sky One</link>
 <thumbnail></thumbnail>
