@@ -3,11 +3,11 @@
 <fanart></fanart>
 ########################################################
 
-<dir>
+<plugin>
 <name>Entertainment</name>
 <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-livetv/paw-tvcat/paw-ent.xml</link>
 <thumbnail></thumbnail>
-</dir>
+</plugin>
 
 <plugin>
 <title>BBC Regional</title>
@@ -16,8 +16,8 @@
 </plugin>
 
 <dir>
-<title>paw iptv</title>
-<link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-livetv/paw-tvcat/paw-iptv.xml</link>
+<title>Sky Channels Test</title>
+<link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-livetv/paw-tvcat/paw-sc</link>
 <thumbnail></thumbnail>
 </dir>
 
