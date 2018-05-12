@@ -1,4 +1,4 @@
-<plugin>
+<item>
 <title>Sky Atlantic</title>
 <link>
 	<sublink>plugin://script.module.raider.uktv.now/play/192</sublink>
@@ -7,4 +7,4 @@
 </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
