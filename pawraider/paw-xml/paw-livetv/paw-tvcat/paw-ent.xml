@@ -20,7 +20,7 @@
 
 <item>
 <title>Sky One</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdnv.cli.tn/iptv/ch1809&amp;streamtype=TSDOWNLOADER;name=Sky One</link>
+<link>plugin://script.module.netstreams.iptv/play_id/Channels/ebcd8ef93fa99c4834d0cc3275f3dcd7</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
