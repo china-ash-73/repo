@@ -12,14 +12,15 @@
 
 <item>
 <title>Sky Atlantic</title>
-<link>plugin://script.module.netstreams.iptv/play_id/Channels/eabd32acc39d4bd72a4ad687090aef8f</link>
 <link>plugin://script.module.raider.uktv.now/play/192</link>
+<link>plugin://script.module.netstreams.iptv/play_id/Channels/eabd32acc39d4bd72a4ad687090aef8f</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Sky One</title>
+<link>plugin://script.module.raider.uktv.now/play/189</link>
 <link>plugin://script.module.netstreams.iptv/play_id/Channels/ebcd8ef93fa99c4834d0cc3275f3dcd7</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -27,7 +28,7 @@
 
 <item>
 <title>Alibi</title>
-<link>plugin://script.module.aragon/play/27</link>
+<link>plugin://script.module.raider.uktv.now/play/27</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
