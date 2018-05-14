@@ -42,6 +42,13 @@
 </item>
 
 <item>
+<title>Gold</title>
+<link>plugin://script.module.raider.uktv.now/play/236</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Alibi</title>
 <link>plugin://script.module.raider.uktv.now/play/27</link>
 <thumbnail></thumbnail>
