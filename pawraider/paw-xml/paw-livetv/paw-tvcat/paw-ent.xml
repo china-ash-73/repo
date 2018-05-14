@@ -34,6 +34,14 @@
 </item>
 
 <item>
+<title>Sky Living</title>
+<link>plugin://script.module.raider.uktv.now/play/195</link>
+<link>plugin://script.module.netstreams.iptv/play_id/Channels/26cb04f6748172109489d18b64feca2e</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Alibi</title>
 <link>plugin://script.module.raider.uktv.now/play/27</link>
 <thumbnail></thumbnail>
