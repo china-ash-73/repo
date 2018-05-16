@@ -58,3 +58,45 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>A&E</title>
+<link>plugin://script.module.raider.uktv.now/play/22</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BET</title>
+<link>plugin://script.module.raider.uktv.now/play/425</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CBS</title>
+<link>plugin://script.module.raider.uktv.now/play/64</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>CBS Action</title>
+<link>plugin://script.module.raider.uktv.now/play/65</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CBS Drama</title>
+<link>plugin://script.module.raider.uktv.now/play/66</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>CBS Reality</title>
+<link>plugin://script.module.raider.uktv.now/play/502</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
