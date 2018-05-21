@@ -11,6 +11,15 @@
 </item>
 
 <item>
+<title>BBC</title>
+<link>http://192.168.0.33:5004/auto/v1</link>
+<thumbnail>https://i.imgur.com/kxMb7jO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+http://192.168.0.33:5004/auto/v1
+
+<item>
 <title>Sky Atlantic</title>
 <link>plugin://script.module.raider.uktv.now/play/192</link>
 <link>plugin://script.module.netstreams.iptv/play_id/Channels/eabd32acc39d4bd72a4ad687090aef8f</link>
