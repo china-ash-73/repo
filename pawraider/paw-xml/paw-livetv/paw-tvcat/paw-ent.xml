@@ -67,6 +67,13 @@
 </item>
 
 <item>
+<title>AMC</title>
+<link>plugin://script.module.raider.uktv.now/play/496</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>BET</title>
 <link>plugin://script.module.raider.uktv.now/play/425</link>
 <thumbnail></thumbnail>
