@@ -48,10 +48,18 @@
 <item>
 <title>Gold</title>
 <link>plugin://script.module.raider.uktv.now/play/236</link>
+<link>plugin://script.module.netstreams.iptv/play_id/Channels/2c0898822ab3baf7f93bea86648adb26</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
+<item>
+<title>SyFy</title>
+<link>http://www.liveonlinetv247.info/embed/syfy.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
 <item>
 <title>Alibi</title>
 <link>plugin://script.module.raider.uktv.now/play/27</link>
@@ -76,6 +84,7 @@
 <item>
 <title>Drama</title>
 <link>plugin://script.module.raider.uktv.now/play/98</link>
+<link>plugin://script.module.netstreams.iptv/play_id/Channels/24bdca7ce85d02fddf5992944b4960d1</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -184,6 +193,13 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Spike</title>
+<link>plugin://script.module.raider.uktv.now/play/289</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
 <item>
 <title>Quest</title>
 <link>plugin://script.module.raider.uktv.now/play/177</link>
