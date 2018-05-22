@@ -11,6 +11,13 @@
 </item>
 
 <item>
+<title>5</title>
+<link>plugin://script.module.raider.uktv.now/play/299</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Sky Atlantic</title>
 <link>plugin://script.module.raider.uktv.now/play/192</link>
 <link>plugin://script.module.netstreams.iptv/play_id/Channels/eabd32acc39d4bd72a4ad687090aef8f</link>
@@ -51,6 +58,13 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+  
+<item>
+<title>Drama</title>
+<link>plugin://script.module.raider.uktv.now/play/98</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>5 USA</title>
@@ -59,6 +73,20 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>BBC Four</title>
+<link>plugin://script.module.raider.uktv.now/play/43</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>E4</title>
+<link>plugin://script.module.raider.uktv.now/play/100</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
 <item>
 <title>A&E</title>
 <link>plugin://script.module.raider.uktv.now/play/22</link>
@@ -107,3 +135,30 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Dave</title>
+<link>plugin://script.module.raider.uktv.now/play/88</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>Challenge</title>
+<link>plugin://script.module.raider.uktv.now/play/642</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Comedy Central</title>
+<link>plugin://script.module.raider.uktv.now/play/84</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>DMAX</title>
+<link>plugin://script.module.raider.uktv.now/play/97</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
