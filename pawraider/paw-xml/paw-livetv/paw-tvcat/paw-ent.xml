@@ -55,7 +55,7 @@
 
 <item>
 <title>SyFy</title>
-<link>http://51.15.251.244/live/syfy-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDE4IDEyOjAwOjEzIFBNJmhhc2hfdmFsdWU9S0pxckFFYWsxL2ZwOTVVUkgrdUxjZz09JnZhbGlkbWludXRlcz0xMCZpZD04Mi4zMy44MS4xMzQmc3RybV9sZW49MTI=</link>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -69,7 +69,7 @@
  
 <item>
 <title>W</title>
-<link>http://185.21.216.139:7071/routernew/Watch/playlist.m3u8</link>
+<link>http://185.21.216.139:7071/routernew/Watch/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDE4IDEyOjQ3OjM1IFBNJmhhc2hfdmFsdWU9SFpLZjFSSjdqY2FaS01VUHp6cXJPQT09JnZhbGlkbWludXRlcz0y|User-Agent=123456</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
