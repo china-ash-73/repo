@@ -69,7 +69,7 @@
  
 <item>
 <title>W</title>
-<link>http://185.21.216.139:7071/routernew/Watch/l_725278_7776120_1293.ts?nimblesessionid=14731097&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDE4IDEyOjEwOjAzIFBNJmhhc2hfdmFsdWU9eDNqd2lWV2VJYW01MUF3VE9QSlY4Zz09JnZhbGlkbWludXRlcz0y</link>
+<link>plugin://script.module.streamhublive/?url=swift:http://185.21.216.139:7071/routernew/Watch/playlist.m3u8&mode=10</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
