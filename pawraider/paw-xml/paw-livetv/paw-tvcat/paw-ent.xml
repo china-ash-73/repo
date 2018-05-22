@@ -58,6 +58,20 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+ 
+<item>
+<title>FOX - Europe</title>
+<link>plugin://script.module.raider.uktv.now/play/290</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>  
+
+<item>
+<title>Fx - US</title>
+<link>plugin://script.module.raider.uktv.now/play/425</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item> 
   
 <item>
 <title>Drama</title>
@@ -66,6 +80,27 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>ITV 2</title>
+<link>plugin://script.module.raider.uktv.now/play/139</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>ITV 3</title>
+<link>plugin://script.module.raider.uktv.now/play/140</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>ITV 4</title>
+<link>plugin://script.module.raider.uktv.now/play/142</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+  
 <item>
 <title>5 USA</title>
 <link>plugin://script.module.raider.uktv.now/play/502</link>
@@ -86,6 +121,13 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+ 
+<item>
+<title>More 4</title>
+<link>plugin://script.module.raider.uktv.now/play/500</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>  
   
 <item>
 <title>A&E</title>
@@ -135,6 +177,20 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>Pick</title>
+<link>plugin://script.module.raider.uktv.now/play/650</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Quest</title>
+<link>plugin://script.module.raider.uktv.now/play/177</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item> 
+ 
 <item>
 <title>Dave</title>
 <link>plugin://script.module.raider.uktv.now/play/88</link>
