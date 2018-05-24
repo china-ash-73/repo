@@ -162,10 +162,10 @@
   
 <item>
 <title>ITV +1</title>
-<link>plugin://plugin.video.F.T.V/','-1','?url=1817,mode=125,name=ITV+1</link>
+<FTV>1817</FTV>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>   
+</item> 
 
 <item>
 <title>A&E</title>
