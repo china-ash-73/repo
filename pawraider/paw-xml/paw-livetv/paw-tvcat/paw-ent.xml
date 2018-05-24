@@ -167,6 +167,27 @@
 <fanart></fanart>
 </item> 
 
+ <item>
+<title>ITV 2 +1</title>
+<FTV>1820</FTV>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>ITV 3 +1</title>
+<FTV>1823</FTV>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>ITV 4 +1</title>
+<FTV>1826</FTV>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
 <item>
 <title>A&E</title>
 <link>plugin://script.module.raider.uktv.now/play/22</link>
