@@ -85,8 +85,7 @@
  
 <item>
 <title>W</title>
-<link>plugin://script.module.streamhublive/','35','?url=swift:http://185.21.216.139:7071/routernew/Watch/playlist.m3u8,mode=10</link>
-<thumbnail></thumbnail>
+ <link>plugin://script.module.streamhublive/','35',''</link>
 <fanart></fanart>
 </item> 
  
