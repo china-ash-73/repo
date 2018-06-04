@@ -76,9 +76,16 @@
 </plugin>
  
 <item>
+<title>Universal Tv</title>
+<link> plugin://script.module.mancave-swiftstreamz/play/http%3A%2F%2F185.21.217.79%3A7071%2Fsuper%2FUniversal%2Fplaylist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Alibi</title>
 <link>plugin://script.module.raider.uktv.now/play/27</link>
- <link>plugin://script.module.raider.nettv/play/NDMxw</link>
+<link>plugin://script.module.raider.nettv/play/NDMxw</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
