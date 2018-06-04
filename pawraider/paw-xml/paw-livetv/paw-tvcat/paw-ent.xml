@@ -93,7 +93,6 @@
 <item>
 <title>W</title>
 <link>plugin://script.module.mancave-swiftstreamz/play/http%3A%2F%2F185.21.216.139%3A7071%2Fsuper%2FWatch%2Fplaylist.m3u8</link>
-<link>plugin://plugin.video.mancaveflix/','74',''</link>
  <thumbnail></thumbnail>
  <fanart></fanart>
 </item> 
@@ -148,6 +147,13 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>5 Star</title>
+<link>plugin://script.module.mancave-swiftstreamz/play/http%3A%2F%2F185.21.216.139%3A7071%2Fsuper%2F5Star%2Fplaylist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
 <item>
 <title>BBC Four</title>
 <link>plugin://script.module.raider.uktv.now/play/43</link>
