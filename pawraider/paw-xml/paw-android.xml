@@ -23,3 +23,7 @@
 <link>plugin://script.module.streamhublive</link>
 </plugin>
 
+<plugin>
+<name>Swift Stream</name>
+<link>plugin://script.module.raider.swift</link>
+</plugin>
