@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBC One Lon" tvg-name="BBC One FHD" tvg-logo="http://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK Entertainment",UK BBC One FHD
+#EXTINF:-1 tvg-id="BBC One Lon" tvg-name="BBC One Lon" tvg-logo="http://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK Entertainment",BBC One FHD
 http://162.218.64.53:83/live/Luis.Medina/35252525/67140.ts
-#EXTINF:-1 tvg-id="BBC Two Eng" tvg-name="BBC Two FHD" tvg-logo="http://static.iptv-epg.com/gb/BBC2.uk.png" group-title="UK Entertainment",UK BBC Two FHD
+#EXTINF:-1 tvg-id="BBC Two Eng" tvg-name="BBC Two Eng" tvg-logo="http://static.iptv-epg.com/gb/BBC2.uk.png" group-title="UK Entertainment",BBC Two FHD
 http://162.218.64.53:83/live/Luis.Medina/35252525/21112.ts
-#EXTINF:-1 tvg-id="ITV" tvg-name="ITV FHD" tvg-logo="http://gehosting.srve.io/logos/ITV%201.png" group-title="UK Entertainment",UK ITV FHD
+#EXTINF:-1 tvg-id="ITV" tvg-name="ITV" tvg-logo="http://gehosting.srve.io/logos/ITV%201.png" group-title="UK Entertainment",ITV FHD
 http://162.218.64.53:83/live/Luis.Medina/35252525/142763.ts
 
 
