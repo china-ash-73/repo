@@ -75,12 +75,12 @@
 <fanart></fanart>
 </item>
 
-<plugin>
+<item>
 <title>SyFy</title>
-<sportsdevil>http://www.liveonlinetv247.info/syfy.php</sportsdevil>
+<link>http://162.218.64.53:83/live/Luis.Medina/35252525/21064.ts</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
  
 <item>
 <title>Universal Tv</title>
@@ -147,6 +147,13 @@
 <fanart></fanart>
 </item>
   
+<item>
+<title>ITV Encore</title>
+<link>http://162.218.64.53:83/live/Luis.Medina/35252525/255236.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item> 
+ 
 <item>
 <title>5 USA</title>
 <link>plugin://script.module.raider.uktv.now/play/502</link>
