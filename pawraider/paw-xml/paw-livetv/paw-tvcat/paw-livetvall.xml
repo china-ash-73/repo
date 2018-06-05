@@ -1,38 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK BBC One FHD" tvg-logo="http://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK Entertainment",UK BBC One FHD
+#EXTINF:-1 tvg-id="BBC One Lon" tvg-name="BBC One FHD" tvg-logo="http://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK Entertainment",UK BBC One FHD
 http://162.218.64.53:83/live/Luis.Medina/35252525/67140.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK BBC ONE" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" group-title="UK Entertainment",UK BBC ONE
-http://162.218.64.53:83/live/Luis.Medina/35252525/168364.ts
-#EXTINF:-1 tvg-id="bbc1northernireland.uk" tvg-name="UK BBC One Northern Ireland" tvg-logo="https://www.mastermindpromotion.com/wp-content/uploads/2015/02/bbc-one-2006.png" group-title="UK Entertainment",UK BBC One Northern Ireland
-http://162.218.64.53:83/live/Luis.Medina/35252525/168349.ts
-#EXTINF:-1 tvg-id="bbc1scotland.uk" tvg-name="UK BBC One Scotland" tvg-logo="https://www.mastermindpromotion.com/wp-content/uploads/2015/02/bbc-one-2006.png" group-title="UK Entertainment",UK BBC One Scotland
-http://162.218.64.53:83/live/Luis.Medina/35252525/168351.ts
-#EXTINF:-1 tvg-id="bbc1wales.uk" tvg-name="UK BBC One Wales" tvg-logo="https://www.mastermindpromotion.com/wp-content/uploads/2015/02/bbc-one-2006.png" group-title="UK Entertainment",UK BBC One Wales
-http://162.218.64.53:83/live/Luis.Medina/35252525/168353.ts
+#EXTINF:-1 tvg-id="BBC Two Eng" tvg-name="BBC Two FHD" tvg-logo="http://static.iptv-epg.com/gb/BBC2.uk.png" group-title="UK Entertainment",UK BBC Two FHD
+http://162.218.64.53:83/live/Luis.Medina/35252525/21112.ts
+#EXTINF:-1 tvg-id="ITV" tvg-name="ITV FHD" tvg-logo="http://gehosting.srve.io/logos/ITV%201.png" group-title="UK Entertainment",UK ITV FHD
+http://162.218.64.53:83/live/Luis.Medina/35252525/142763.ts
+
+
 #EXTINF:-1 tvg-id="bbcparliament.uk" tvg-name="UK BBC Parliament" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="UK Entertainment",UK BBC Parliament
 http://162.218.64.53:83/live/Luis.Medina/35252525/168365.ts
 #EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK BBC World News" tvg-logo="" group-title="UK Entertainment",UK BBC World News
 http://162.218.64.53:83/live/Luis.Medina/35252525/168366.ts
-#EXTINF:-1 tvg-id="bbc1scotland.uk" tvg-name="UK BBC ONE SCOTLAND" tvg-logo="https://www.mastermindpromotion.com/wp-content/uploads/2015/02/bbc-one-2006.png" group-title="UK Entertainment",UK BBC ONE SCOTLAND
-http://162.218.64.53:83/live/Luis.Medina/35252525/169405.ts
 #EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK BBC News HD" tvg-logo="http://static.iptv-epg.com/uk/BBCNews.uk.png" group-title="UK Entertainment",UK BBC News HD
 http://162.218.64.53:83/live/Luis.Medina/35252525/168363.ts
-#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK BBC Two FHD" tvg-logo="http://static.iptv-epg.com/gb/BBC2.uk.png" group-title="UK Entertainment",UK BBC Two FHD
-http://162.218.64.53:83/live/Luis.Medina/35252525/21112.ts
-#EXTINF:-1 tvg-id="bbc2scotland.uk" tvg-name="UK BBC Two Scotland" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/41/BBC_Two_square-less_logo.png/revision/latest?cb=20150129145727" group-title="UK Entertainment",UK BBC Two Scotland
-http://162.218.64.53:83/live/Luis.Medina/35252525/168350.ts
-#EXTINF:-1 tvg-id="bbc2wales.uk" tvg-name="UK BBC Two Wales" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/41/BBC_Two_square-less_logo.png/revision/latest?cb=20150129145727" group-title="UK Entertainment",UK BBC Two Wales
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_wales_digital.m3u8
+
+
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK Channel 5 FHD" tvg-logo="http://static.iptv-epg.com/gb/Channel5.uk.png" group-title="UK Entertainment",UK Channel 5 FHD
 http://162.218.64.53:83/live/Luis.Medina/35252525/21097.ts
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK Channel 5 HD" tvg-logo="http://static.iptv-epg.com/gb/Channel5.uk.png" group-title="UK Entertainment",UK Channel 5 HD
 http://162.218.64.53:83/live/Luis.Medina/35252525/142761.ts
-#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="UK ITV SD" tvg-logo="http://static.iptv-epg.com/gb/ITV1Anglia.uk.png" group-title="UK Entertainment",UK ITV SD
-http://162.218.64.53:83/live/Luis.Medina/35252525/21062.ts
-#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="UK ITV HD" tvg-logo="http://gehosting.srve.io/logos/ITV%201.png" group-title="UK Entertainment",UK ITV HD
-http://162.218.64.53:83/live/Luis.Medina/35252525/142764.ts
-#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="UK ITV FHD" tvg-logo="http://gehosting.srve.io/logos/ITV%201.png" group-title="UK Entertainment",UK ITV FHD
-http://162.218.64.53:83/live/Luis.Medina/35252525/142763.ts
+
 #EXTINF:-1 tvg-id="itv2.uk" tvg-name="BT UK ITV 2 SD" tvg-logo="http://gehosting.srve.io/logos/ITV%202.png" group-title="UK Entertainment",BT UK ITV 2 SD
 http://162.218.64.53:83/live/Luis.Medina/35252525/142765.ts
 #EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK ITV 2 HD" tvg-logo="http://gehosting.srve.io/logos/ITV%202.png" group-title="UK Entertainment",UK ITV 2 HD
