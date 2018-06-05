@@ -5,6 +5,15 @@ http://162.218.64.53:83/live/Luis.Medina/35252525/67140.ts
 http://162.218.64.53:83/live/Luis.Medina/35252525/21112.ts
 #EXTINF:-1 tvg-id="ITV" tvg-name="ITV" tvg-logo="http://gehosting.srve.io/logos/ITV%201.png" group-title="UK Entertainment",ITV FHD
 http://162.218.64.53:83/live/Luis.Medina/35252525/142763.ts
+#EXTINF:-1 tvg-id="Channel 4 HD" tvg-name="Channel 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/2000px-Channel_4_logo_2015.svg.png" group-title="UK Entertainment",CHANNEL 4
+http://162.218.64.53:83/live/Luis.Medina/35252525/257065.ts
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="http://static.iptv-epg.com/gb/Channel5.uk.png" group-title="UK Entertainment",Channel 5 FHD
+http://162.218.64.53:83/live/Luis.Medina/35252525/21097.ts
+#EXTINF:-1 tvg-id="Sky1" tvg-name="Sky1" tvg-logo="http://gehosting.srve.io/logos/SKY%20ONE%20HD.png" group-title="UK Entertainment",Sky ONE HD
+http://162.218.64.53:83/live/Luis.Medina/35252525/142768.ts
+#EXTINF:-1 tvg-id="Sky2" tvg-name="Sky2" tvg-logo="http://static.iptv-epg.com/gb/Sky2.uk.png" group-title="UK Entertainment",Sky 2
+http://162.218.64.53:83/live/Luis.Medina/35252525/21107.ts
+
 
 
 #EXTINF:-1 tvg-id="bbcparliament.uk" tvg-name="UK BBC Parliament" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="UK Entertainment",UK BBC Parliament
@@ -15,59 +24,53 @@ http://162.218.64.53:83/live/Luis.Medina/35252525/168366.ts
 http://162.218.64.53:83/live/Luis.Medina/35252525/168363.ts
 
 
-#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK Channel 5 FHD" tvg-logo="http://static.iptv-epg.com/gb/Channel5.uk.png" group-title="UK Entertainment",UK Channel 5 FHD
-http://162.218.64.53:83/live/Luis.Medina/35252525/21097.ts
-#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK Channel 5 HD" tvg-logo="http://static.iptv-epg.com/gb/Channel5.uk.png" group-title="UK Entertainment",UK Channel 5 HD
-http://162.218.64.53:83/live/Luis.Medina/35252525/142761.ts
 
-#EXTINF:-1 tvg-id="itv2.uk" tvg-name="BT UK ITV 2 SD" tvg-logo="http://gehosting.srve.io/logos/ITV%202.png" group-title="UK Entertainment",BT UK ITV 2 SD
-http://162.218.64.53:83/live/Luis.Medina/35252525/142765.ts
+
 #EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK ITV 2 HD" tvg-logo="http://gehosting.srve.io/logos/ITV%202.png" group-title="UK Entertainment",UK ITV 2 HD
 http://162.218.64.53:83/live/Luis.Medina/35252525/67155.ts
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK ITV3" tvg-logo="http://gehosting.srve.io/logos/ITV%203.png" group-title="UK Entertainment",UK ITV3
 http://162.218.64.53:83/live/Luis.Medina/35252525/21076.ts
-#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK ITV 3 SD" tvg-logo="http://gehosting.srve.io/logos/ITV%203.png" group-title="UK Entertainment",UK ITV 3 SD
-http://162.218.64.53:83/live/Luis.Medina/35252525/142782.ts
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK ITV 4" tvg-logo="http://gehosting.srve.io/logos/ITV%204.png" group-title="UK Entertainment",UK ITV 4
-http://162.218.64.53:83/live/Luis.Medina/35252525/142784.ts
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK ITV4" tvg-logo="http://gehosting.srve.io/logos/ITV%204.png" group-title="UK Entertainment",UK ITV4
-http://162.218.64.53:83/live/Luis.Medina/35252525/21055.ts
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK ITV 4 FHD" tvg-logo="http://gehosting.srve.io/logos/ITV%204.png" group-title="UK Entertainment",UK ITV 4 FHD
 http://162.218.64.53:83/live/Luis.Medina/35252525/142783.ts
-#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK ITV Be" tvg-logo="http://gehosting.srve.io/logos/ITV%20Be.png" group-title="UK Entertainment",UK ITV Be
-http://162.218.64.53:83/live/Luis.Medina/35252525/142788.ts
-#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK ITV Be FHD" tvg-logo="http://gehosting.srve.io/logos/ITV%20Be.png" group-title="UK Entertainment",UK ITV Be FHD
-http://162.218.64.53:83/live/Luis.Medina/35252525/142787.ts
-#EXTINF:-1 tvg-id="sky1.uk" tvg-name="UK S3y 1" tvg-logo="http://gehosting.srve.io/logos/SKY%20ONE%20HD.png" group-title="UK Entertainment",UK S3y 1
-http://162.218.64.53:83/live/Luis.Medina/35252525/21074.ts
-#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="UK S3y ONE HD" tvg-logo="http://gehosting.srve.io/logos/SKY%20ONE%20HD.png" group-title="UK Entertainment",UK S3y ONE HD
-http://162.218.64.53:83/live/Luis.Medina/35252525/142768.ts
-#EXTINF:-1 tvg-id="Sky2.uk" tvg-name="UK S3y 2" tvg-logo="http://static.iptv-epg.com/gb/Sky2.uk.png" group-title="UK Entertainment",UK S3y 2
-http://162.218.64.53:83/live/Luis.Medina/35252525/21107.ts
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK S3y Arts" tvg-logo="http://static.iptv-epg.com/gb/SkyArts.uk.png" group-title="UK Entertainment",UK S3y Arts
 http://162.218.64.53:83/live/Luis.Medina/35252525/21063.ts
-#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="BT UK S3y ARts" tvg-logo="http://static.iptv-epg.com/gb/SkyArts.uk.png" group-title="UK Entertainment",BT UK S3y ARts
-http://162.218.64.53:83/live/Luis.Medina/35252525/142757.ts
-#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="UK S3y Living" tvg-logo="http://static.iptv-epg.com/gb/SkyLiving.uk.png" group-title="UK Entertainment",UK S3y Living
-http://162.218.64.53:83/live/Luis.Medina/35252525/21073.ts
+
+
+
 #EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="UK S3y Living" tvg-logo="http://static.iptv-epg.com/gb/SkyLiving.uk.png" group-title="UK Entertainment",UK S3y Living
 http://162.218.64.53:83/live/Luis.Medina/35252525/67145.ts
-#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK 5Star" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" group-title="UK Entertainment",UK 5Star
-http://162.218.64.53:83/live/Luis.Medina/35252525/21081.ts
+
+
 #EXTINF:-1 tvg-id="5star.uk" tvg-name="UK FIVE STAR" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" group-title="UK Entertainment",UK FIVE STAR
 http://162.218.64.53:83/live/Luis.Medina/35252525/142755.ts
 #EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="UK FIVE USA" tvg-logo="http://static.iptv-epg.com/gb/FiveUSA.uk.png" group-title="UK Entertainment",UK FIVE USA
 http://162.218.64.53:83/live/Luis.Medina/35252525/142756.ts
+
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="UK More4" tvg-logo="http://static.iptv-epg.com/gb/More4.uk.png" group-title="UK Entertainment",UK More4
 http://162.218.64.53:83/live/Luis.Medina/35252525/67149.ts
+
 #EXTINF:-1 tvg-id="E4.uk" tvg-name="UK E4" tvg-logo="http://static.iptv-epg.com/gb/E4.uk.png" group-title="UK Entertainment",UK E4
 http://162.218.64.53:83/live/Luis.Medina/35252525/21088.ts
+
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK ITV Be FHD" tvg-logo="http://gehosting.srve.io/logos/ITV%20Be.png" group-title="UK Entertainment",UK ITV Be FHD
+http://162.218.64.53:83/live/Luis.Medina/35252525/142787.ts
 #EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="UK E!" tvg-logo="http://gehosting.srve.io/logos/E!.png" group-title="UK Entertainment",UK E!
 http://162.218.64.53:83/live/Luis.Medina/35252525/21089.ts
+#EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="UK Lifetime" tvg-logo="http://static.iptv-epg.com/gb/Lifetime.uk.png" group-title="UK Entertainment",UK Lifetime
+http://162.218.64.53:83/live/Luis.Medina/35252525/21058.ts
+#EXTINF:-1 tvg-id="RealLives.uk" tvg-name="UK Real Lives" tvg-logo="http://static.iptv-epg.com/gb/RealLives.uk.png" group-title="UK Entertainment",UK Real Lives
+
+
 #EXTINF:-1 tvg-id="Eden.uk" tvg-name="BT UK Eden" tvg-logo="http://gehosting.srve.io/logos/z/LOGOS/Eden.png" group-title="UK Entertainment",BT UK Eden
 http://162.218.64.53:83/live/Luis.Medina/35252525/142789.ts
-#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK Dave" tvg-logo="http://static.iptv-epg.com/gb/Dave.uk.png" group-title="UK Entertainment",UK Dave
-http://162.218.64.53:83/live/Luis.Medina/35252525/21092.ts
+
+
 #EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK Dave HD" tvg-logo="http://static.iptv-epg.com/gb/Dave.uk.png" group-title="UK Entertainment",UK Dave HD
 http://162.218.64.53:83/live/Luis.Medina/35252525/142758.ts
 #EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK COMEDY CENTRAL" tvg-logo="http://gehosting.srve.io/logos/z/LOGOS/COMEDY%20CENTRAL%20UK.png" group-title="UK Entertainment",UK COMEDY CENTRAL
@@ -78,16 +81,15 @@ http://162.218.64.53:83/live/Luis.Medina/35252525/21094.ts
 http://162.218.64.53:83/live/Luis.Medina/35252525/142751.ts
 #EXTINF:-1 tvg-id="Really.uk" tvg-name="UK Really" tvg-logo="http://static.iptv-epg.com/gb/Really.uk.png" group-title="UK Entertainment",UK Really
 http://162.218.64.53:83/live/Luis.Medina/35252525/21045.ts
-#EXTINF:-1 tvg-id="RealLives.uk" tvg-name="UK Real Lives" tvg-logo="http://static.iptv-epg.com/gb/RealLives.uk.png" group-title="UK Entertainment",UK Real Lives
 http://162.218.64.53:83/live/Luis.Medina/35252525/21046.ts
 #EXTINF:-1 tvg-id="Spike.uk" tvg-name="UK Spike" tvg-logo="http://static.iptv-epg.com/gb/Spike.uk.png" group-title="UK Entertainment",UK Spike
 http://162.218.64.53:83/live/Luis.Medina/35252525/21082.ts
+
 #EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="BT UK Good Food" tvg-logo="http://static.iptv-epg.com/gb/GoodFood.uk.png" group-title="UK Entertainment",BT UK Good Food
 http://162.218.64.53:83/live/Luis.Medina/35252525/21118.ts
-#EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="UK Lifetime" tvg-logo="http://static.iptv-epg.com/gb/Lifetime.uk.png" group-title="UK Entertainment",UK Lifetime
-http://162.218.64.53:83/live/Luis.Medina/35252525/21058.ts
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="UK Food Network" tvg-logo="http://static.iptv-epg.com/us/FoodNetwork.us.png" group-title="UK Entertainment",UK Food Network
 http://162.218.64.53:83/live/Luis.Medina/35252525/21079.ts
+
 #EXTINF:-1 tvg-id="gold.uk" tvg-name="UK GOLD" tvg-logo="http://static.iptv-epg.com/gb/GOLD.uk.png" group-title="UK Entertainment",UK GOLD
 http://162.218.64.53:83/live/Luis.Medina/35252525/21070.ts
 #EXTINF:-1 tvg-id="FOX.uk" tvg-name="UK FOX" tvg-logo="http://static.iptv-epg.com/gb/FOX.uk.png" group-title="UK Entertainment",UK FOX
@@ -160,8 +162,7 @@ http://162.218.64.53:83/live/Luis.Medina/35252525/256035.ts
 http://162.218.64.53:83/live/Luis.Medina/35252525/256034.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK MTV Dance" tvg-logo="" group-title="UK Entertainment",UK MTV Dance
 http://162.218.64.53:83/live/Luis.Medina/35252525/257058.ts
-#EXTINF:-1 tvg-id="channel4.uk" tvg-name="CHANNEL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/2000px-Channel_4_logo_2015.svg.png" group-title="UK Entertainment",CHANNEL 4
-http://162.218.64.53:83/live/Luis.Medina/35252525/257065.ts
+
 #EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="UK Sky Cinema Action" tvg-logo="" group-title="UK Movies",UK Sky Cinema Action
 http://162.218.64.53:83/live/Luis.Medina/35252525/143542.ts
 #EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="UK Sky Cinema Action FHD" tvg-logo="" group-title="UK Movies",UK Sky Cinema Action FHD
