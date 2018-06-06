@@ -5,11 +5,11 @@ http://162.218.64.53:83/live/Luis.Medina/35252525/67140.ts
 http://162.218.64.53:83/live/Luis.Medina/35252525/21112.ts
 #EXTINF:-1 tvg-id="ITV" tvg-name="ITV" tvg-logo="http://gehosting.srve.io/logos/ITV%201.png" group-title="UK Entertainment",ITV FHD
 http://162.218.64.53:83/live/Luis.Medina/35252525/142763.ts
-#EXTINF:-1 tvg-id="Channel 4 HD" tvg-name="Channel 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/2000px-Channel_4_logo_2015.svg.png" group-title="UK Entertainment",CHANNEL 4
+#EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/2000px-Channel_4_logo_2015.svg.png" group-title="UK Entertainment",CHANNEL 4
 http://162.218.64.53:83/live/Luis.Medina/35252525/257065.ts
 #EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="http://static.iptv-epg.com/gb/Channel5.uk.png" group-title="UK Entertainment",Channel 5 FHD
 http://162.218.64.53:83/live/Luis.Medina/35252525/21097.ts
-#EXTINF:-1 tvg-id="Sky1" tvg-name="Sky1" tvg-logo="http://gehosting.srve.io/logos/SKY%20ONE%20HD.png" group-title="UK Entertainment",Sky ONE HD
+#EXTINF:-1 tvg-id="Sky One" tvg-name="Sky One" tvg-logo="http://gehosting.srve.io/logos/SKY%20ONE%20HD.png" group-title="UK Entertainment",Sky ONE HD
 http://162.218.64.53:83/live/Luis.Medina/35252525/142768.ts
 #EXTINF:-1 tvg-id="Sky2" tvg-name="Sky2" tvg-logo="http://static.iptv-epg.com/gb/Sky2.uk.png" group-title="UK Entertainment",Sky 2
 http://162.218.64.53:83/live/Luis.Medina/35252525/21107.ts
@@ -43,7 +43,7 @@ http://162.218.64.53:83/live/Luis.Medina/35252525/21063.ts
 
 
 
-#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="UK S3y Living" tvg-logo="http://static.iptv-epg.com/gb/SkyLiving.uk.png" group-title="UK Entertainment",UK S3y Living
+#EXTINF:-1 tvg-id="Sky Living" tvg-name="Sky Living" tvg-logo="http://static.iptv-epg.com/gb/SkyLiving.uk.png" group-title="UK Entertainment",UK S3y Living
 http://162.218.64.53:83/live/Luis.Medina/35252525/67145.ts
 
 
