@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBC One Lon" tvg-name="BBC One Lon" tvg-logo="http://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK Entertainment",BBC One FHD
+#EXTINF:-1 tvg-id="BBC1" tvg-name="BBC1" tvg-logo="http://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK Entertainment",BBC One FHD
 http://162.218.64.53:83/live/Luis.Medina/35252525/67140.ts
 #EXTINF:-1 tvg-id="BBC Two Eng" tvg-name="BBC Two Eng" tvg-logo="http://static.iptv-epg.com/gb/BBC2.uk.png" group-title="UK Entertainment",BBC Two FHD
 http://162.218.64.53:83/live/Luis.Medina/35252525/21112.ts
