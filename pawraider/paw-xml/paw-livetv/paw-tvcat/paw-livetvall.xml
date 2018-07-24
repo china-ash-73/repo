@@ -15,7 +15,7 @@ http://162.218.64.53:83/live/Luis.Medina/35252525/142768.ts
 http://162.218.64.53:83/live/Luis.Medina/35252525/21107.ts
 
 #EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney JR" tvg-logo="https://mommymoment.ca/wp-content/uploads/2011/06/DisneyJunior.jpg" group-title="Kids",Disney Jr
-http://162.218.64.53:83/live/Luis.Medina/35252525/21033.ts
+http://162.218.64.53:83/live/Luis.Medina/35252525/21033.m3u8
 
 #EXTINF:-1 tvg-id="bbcparliament.uk" tvg-name="UK BBC Parliament" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="UK Entertainment",UK BBC Parliament
 http://162.218.64.53:83/live/Luis.Medina/35252525/168365.ts
