@@ -24,6 +24,8 @@ http://162.218.64.53:83/live/Luis.Medina/35252525/168366.ts
 #EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK BBC News HD" tvg-logo="http://static.iptv-epg.com/uk/BBCNews.uk.png" group-title="UK Entertainment",UK BBC News HD
 http://162.218.64.53:83/live/Luis.Medina/35252525/168363.ts
 
+#EXTINF:-1 tvg-id="W" tvg-name="W" tvg-logo="http://static.iptv-epg.com/uk/BBCNews.uk.png" group-title="W"
+http://wowza2.mysoltv.com:1992/UK_ENG_watch/index.m3u8
 
 
 
