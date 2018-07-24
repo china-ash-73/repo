@@ -39,6 +39,11 @@
 </dir>
 
 <dir>
+<title>Search TMDB</title>
+<tmdb>search</tmdb>
+</dir>
+
+<dir>
   <title>Reality Shows</title>
   <tmdb>genre/shows/10764</tmdb>
 </dir>
