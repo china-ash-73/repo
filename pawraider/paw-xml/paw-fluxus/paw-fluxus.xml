@@ -4,16 +4,16 @@
 ########################################################
 
 <plugin>
-<name>Entertainment</name>
-<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-livetv/paw-tvcat/paw-ent.xml</link>
+<name>Fluxus TV</name>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-fluxus/paw-fluxuscat/paw-fluxustv.xml</link>
 <thumbnail></thumbnail>
 </plugin>
 
-<dir>
-<title>BBC Regional</title>
-<link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-livetv/paw-tvcat/paw-bbcreg.xml</link>
+<plugin>
+<title>Fluxus Cinema</title>
+<link>lugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-fluxus/paw-fluxuscat/paw-fluxuscinema.xml</link>
 <thumbnail></thumbnail>
-</dir>
+</plugin>
 
 
 
