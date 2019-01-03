@@ -11,7 +11,7 @@
 
 <plugin>
 <title>Fluxus Cinema</title>
-<link>lugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-fluxus/paw-fluxuscat/paw-fluxuscinema.xml</link>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-fluxus/paw-fluxuscat/paw-fluxuscinema.xml</link>
 <thumbnail></thumbnail>
 </plugin>
 
