@@ -1,5 +1,12 @@
 #EXTM3U
  
+# =======================================================
+# Playlist Name: Fluxus IPTV
+# Playlist ID: 2CfMjRes
+# Playlist Date: DECEMBER 2018
+# =======================================================
+#
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="UK",Al Jazeera English (Opt-1)
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
  
