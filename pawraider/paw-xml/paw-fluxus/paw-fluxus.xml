@@ -15,6 +15,10 @@
 <thumbnail></thumbnail>
 </plugin>
 
-
+<plugin>
+<title>Lodge TV</title>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-fluxus/paw-fluxuscat/paw-lodgetv.xml</link>
+<thumbnail></thumbnail>
+</plugin>
 
 
