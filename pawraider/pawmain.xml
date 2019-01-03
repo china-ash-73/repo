@@ -40,12 +40,12 @@
 <summary>Tv And On Demand</summary>
 </dir>
 
-<dir>
+<plugin>
 <name>Fluxus Tv</name>
-<link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-fluxus.xml</link>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-fluxus.xml</link>
 <thumbnail></thumbnail>
 <summary>Live Tv</summary>
-</dir>
+</plugin>
 
 <dir>
 <name>android iptv</name>
