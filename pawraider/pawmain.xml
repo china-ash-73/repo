@@ -41,6 +41,13 @@
 </dir>
 
 <dir>
+<name>Fluxus Tv</name>
+<link></link>
+<thumbnail></thumbnail>
+<summary>Tv And On Demand</summary>
+</dir>
+
+<dir>
 <name>android iptv</name>
 <link>https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-android.xml</link>
 <thumbnail></thumbnail>
