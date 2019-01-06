@@ -3,15 +3,38 @@
 <fanart></fanart>
 ########################################################
 
+
+<item>
+<title>Sky Cinema Premier</title>
+<link>http://gotdark.com:80/turkers/turkers/22648</link>
+<thumbnail></thumbnail>
+<fanart></fanart
+</item>
+
 <item>
 <title>Sky Cinema Action</title>
 <link>http://gotdark.com:80/turkers/turkers/22655</link>
 <thumbnail></thumbnail>
 <fanart></fanart
+</item>
 
 <item>
 <title>Sky Cinema Drama</title>
 <link>http://gotdark.com:80/turkers/turkers/13504</link>
 <thumbnail></thumbnail>
 <fanart></fanart
+</item>
 
+<item>
+<title>Sky Cinema Greats</title>
+<link>http://gotdark.com:80/turkers/turkers/22650</link>
+<thumbnail></thumbnail>
+<fanart></fanart
+</item>
+
+<item>
+<title>Sky Cinema Sci-fi/Horror</title>
+<link>http://gotdark.com:80/turkers/turkers/22647</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
