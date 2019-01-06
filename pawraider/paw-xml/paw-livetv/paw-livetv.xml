@@ -15,6 +15,10 @@
 <thumbnail></thumbnail>
 </dir>
 
-
+<plugin>
+<name>Films</name>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/china-ash-73/repo/master/pawraider/paw-xml/paw-livetv/paw-tvcat/paw-films</link>
+<thumbnail></thumbnail>
+</plugin>
 
 
